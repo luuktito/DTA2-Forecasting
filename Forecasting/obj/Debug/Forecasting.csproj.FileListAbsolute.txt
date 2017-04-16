@@ -1,0 +1,10 @@
+C:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\bin\Debug\Forecasting.exe.config
+E:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\bin\Debug\Forecasting.exe.config
+E:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\bin\Debug\Forecasting.exe
+E:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\bin\Debug\Forecasting.pdb
+E:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\obj\Debug\Forecasting.csprojResolveAssemblyReference.cache
+E:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\obj\Debug\Forecasting.Form1.resources
+E:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\obj\Debug\Forecasting.Properties.Resources.resources
+E:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\obj\Debug\Forecasting.csproj.GenerateResource.Cache
+E:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\obj\Debug\Forecasting.exe
+E:\Dropbox\INF_Jaar_3\Data Science 2\Forecasting\Forecasting\obj\Debug\Forecasting.pdb
